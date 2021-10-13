@@ -9,7 +9,7 @@ namespace FirstConsole
     class what
     {
         public void why() {
-            Console.WriteLine("Ha Done Hi");
+            Console.WriteLine("Ha Done Not a Problem");
         }
 
     }

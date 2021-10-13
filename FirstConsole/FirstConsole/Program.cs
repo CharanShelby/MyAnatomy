@@ -21,7 +21,6 @@ namespace FirstConsole
         private static void staticmethod()
         {
             Console.WriteLine("okay...");
-
         }
     }
     class demo {

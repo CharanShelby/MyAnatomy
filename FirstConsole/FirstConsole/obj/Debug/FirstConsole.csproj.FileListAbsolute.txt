@@ -1,0 +1,7 @@
+D:\MY ANATOMY\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe.config
+D:\MY ANATOMY\FirstConsole\FirstConsole\bin\Debug\FirstConsole.exe
+D:\MY ANATOMY\FirstConsole\FirstConsole\bin\Debug\FirstConsole.pdb
+D:\MY ANATOMY\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csproj.AssemblyReference.cache
+D:\MY ANATOMY\FirstConsole\FirstConsole\obj\Debug\FirstConsole.csproj.CoreCompileInputs.cache
+D:\MY ANATOMY\FirstConsole\FirstConsole\obj\Debug\FirstConsole.exe
+D:\MY ANATOMY\FirstConsole\FirstConsole\obj\Debug\FirstConsole.pdb
